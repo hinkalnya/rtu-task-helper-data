@@ -1,10 +1,34 @@
 [
     {
         "title": "Mathematics",
-        "description": "Mathematics I and II, Discrete Mathematics, Random Processes and other topics",
+        "description": "Mathematics I and II, including Calculus, Linear Algebra, Differential Equations and so on",
         "price": {
             "min": 10,
-            "max": 15
+            "max": 30
+        }
+    },
+    {
+        "title": "Statistics",
+        "description": "Statistics and Probability theory course, as well as Random Processes course",
+        "price": {
+            "min": 25,
+            "max": 40
+        }
+    },
+    {
+        "title": "Discrete Mathematics",
+        "description": "Discrete Mathematics and Discrete Structures of Computer Programs",
+        "price": {
+            "min": 20,
+            "max": 35
+        }
+    },
+    {
+        "title": "Numerical Methods",
+        "description": "Numerical Methods tests and exam",
+        "price": {
+            "min": 30,
+            "max": 50
         }
     },
     {
@@ -20,7 +44,7 @@
         "description": "Almost every course, including Algorithmization (C), OOP (C++, Java), Python, Assembly and more",
         "price": {
             "min": 15,
-            "max": 25
+            "max": 50
         }
-    }
+    },
 ]
