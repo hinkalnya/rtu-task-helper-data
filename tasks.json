@@ -1,29 +1,29 @@
 [
     {
-        title: "Mathematics",
-        description:
+        "title": "Mathematics",
+        "description":
             "Mathematics I and II, Discrete Mathematics, Random Processes and other topics",
-        price: {
-            min: 10,
-            max: 15
+        "price": {
+            "min": 10,
+            "max": 15
         }
     }
     {
-        title: "Physics",
-        description:
+        "title": "Physics",
+        "description":
             "Lab works, home assignments and defense preparations, for both parts of Physics course",
-        price: {
-            min: 20,
-            max: 40
+        "price": {
+            "min": 20,
+            "max": 40
         }
     }
     {
-        title: "Programming",
-        description:
+        "title": "Programming",
+        "description":
             "Almost every course, including Algorithmization (C), OOP (C++, Java), Python, Assembly and more",
-        price: {
-            min: 15,
-            max: 25
+        "price": {
+            "min": 15,
+            "max": 25
         }
     }
 ]
